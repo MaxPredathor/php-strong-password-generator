@@ -18,7 +18,7 @@ if (empty($_SESSION['password'])) {
         </h2>
     </div>
     <form action="video.php" method="get">
-        <button type="submit" class="btn btn-success my-2">Gestire avanzata dei parametri per la password</button>
+        <button type="submit" class="btn btn-success my-2">Gestione avanzata dei parametri per la password</button>
     </form>
     
 </main>

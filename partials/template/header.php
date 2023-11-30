@@ -33,10 +33,10 @@ include __DIR__ . '/../functions/functions.php';
                 <a class="nav-link" aria-current="page" href="index.php">Comics</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="index.php">Home</a>
+                <a class="nav-link" href="login.php">Create</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="about.php">About</a>
+                <a class="nav-link" href="index.php">About</a>
             </li>
 
         </ul>
